@@ -1,7 +1,5 @@
 # Python Reverse Shell
 
----
-
 ## Background
 
 Just a simple python reverse shell I developped to work some fundamentals. I'll keep improving it whenever I get some free time.
